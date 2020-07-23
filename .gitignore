@@ -4,7 +4,8 @@
 *.war
 *.ear
 hs_err_pid*
-
+serverdir
+clientdir
 ## Robovm
 /ios/robovm-build/
 
